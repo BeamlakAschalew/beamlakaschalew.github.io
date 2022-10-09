@@ -7,31 +7,31 @@
         "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
         "channel_stream": [
         {
-                "video_quality": "144p",
+                "video_quality": 144,
                 "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_144p/index.m3u8" 
         },
         {
-                "video_quality": "240p",
+                "video_quality": 240,
                 "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_240p/index.m3u8" 
                },
           {
-           "video_quality": "360p",
+           "video_quality": 360,
            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_360p/index.m3u8" 
           },
           {
-            "video_quality": "480p",
+            "video_quality": 480,
             "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_480p/index.m3u8" 
            },
            {
-            "video_quality": "720p",
+            "video_quality": 720,
             "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_720p/index.m3u8" 
            },
            {
-            "video_quality": "1080p",
+            "video_quality": 1080,
             "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_src/index.m3u8" 
            },
            {
-            "video_quality": "Auto",
+            "video_quality": 0,
             "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1.m3u8" 
            }
         ]
@@ -42,31 +42,31 @@
         "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/etv_zena.png",
         "channel_stream": [
             {
-                    "video_quality": "144p",
+                    "video_quality": 144,
                     "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1_144p/index.m3u8" 
             },
             {
-                    "video_quality": "240p",
+                    "video_quality": 240,
                     "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1_240p/index.m3u8" 
                    },
               {
-               "video_quality": "360p",
+               "video_quality": 360,
                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1_360p/index.m3u8" 
               },
               {
-                "video_quality": "480p",
+                "video_quality": 480,
                 "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1_480p/index.m3u8" 
                },
                {
-                "video_quality": "720p",
+                "video_quality": 720,
                 "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1_720p/index.m3u8" 
                },
                {
-                "video_quality": "1080p",
+                "video_quality": 1080,
                 "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_src/index.m3u8" 
                },
                {
-                "video_quality": "Auto",
+                "video_quality": 0,
                 "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1.m3u8" 
                }
             ]
@@ -77,31 +77,31 @@
         "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/etv_languages.png",
         "channel_stream": [
             {
-                    "video_quality": "144p",
+                    "video_quality": 144,
                     "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1_144p/index.m3u8" 
             },
             {
-                    "video_quality": "240p",
+                    "video_quality": 240,
                     "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1_240p/index.m3u8" 
                    },
               {
-               "video_quality": "360p",
+               "video_quality": 360,
                "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1_360p/index.m3u8" 
               },
               {
-                "video_quality": "480p",
+                "video_quality": 480,
                 "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1_480p/index.m3u8" 
                },
                {
-                "video_quality": "720p",
+                "video_quality": 720,
                 "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1_720p/index.m3u8" 
                },
                {
-                "video_quality": "1080p",
+                "video_quality": 1080,
                 "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1_1080p/index.m3u8" 
                },
                {
-                "video_quality": "Auto",
+                "video_quality": 0,
                 "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1.m3u8" 
                }
             ]
