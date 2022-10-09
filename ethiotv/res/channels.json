@@ -1,0 +1,25 @@
+{
+    "channel_count": 1,
+    "channels": [
+      {
+        "channel_name": "EBS",
+        "channel_description" : "Ethiopian Broadcasting Service is an Ethiopian free to air television network. Launched in 2008, the network is based in Ethiopia with correspondents both in United States at its headquarters in Silver Spring, Maryland, U.S. EBS TV broadcasts programs in mostly Amharic.",
+        "channel_logo": "",
+        "channel_stream": [
+          {
+            
+          }
+        ]
+      },
+      {
+        "channel_name": "ETV News",
+        "channel_description" : "Ethiopian Broadcasting Service is an Ethiopian free to air television network. Launched in 2008, the network is based in Ethiopia with correspondents both in United States at its headquarters in Silver Spring, Maryland, U.S. EBS TV broadcasts programs in mostly Amharic.",
+        "channel_logo": "",
+        "channel_stream": [
+          {
+            
+          }
+        ]
+      }
+    ]
+  }
