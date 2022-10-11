@@ -1,42 +1,7 @@
 {
     "channel_count": 1,
     "channels": [
-      {
-        "channel_name": "EBS",
-        "channel_description" : "Ethiopian Broadcasting Service is an Ethiopian free to air television network. Launched in 2008, the network is based in Ethiopia with correspondents both in United States at its headquarters in Silver Spring, Maryland, U.S. EBS TV broadcasts programs in mostly Amharic.",
-        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
-        "channel_stream": [
-          {
-            "video_quality": 0,
-            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1.m3u8" 
-          },
-          {
-            "video_quality": 144,
-            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_144p/index.m3u8" 
-          },
-          {
-            "video_quality": 240,
-            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_240p/index.m3u8" 
-          },
-          {
-           "video_quality": 360,
-           "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_360p/index.m3u8" 
-          },
-          {
-            "video_quality": 480,
-            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_480p/index.m3u8" 
-           },
-           {
-            "video_quality": 720,
-            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_720p/index.m3u8" 
-           },
-           {
-            "video_quality": 1080,
-            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_src/index.m3u8" 
-           }
-           
-        ]
-      },
+      
       {
         "channel_name": "ETV News",
         "channel_description" : "EBC (Ethiopian Broadcasting Corporation) is a 24-hour working public media. Ethiopian Broadcasting Corporation is a national media that disseminates its news and programs worldwide via Television, Radio, and the Internet.",
@@ -849,40 +814,6 @@
                }         
             ]
       },
-      {
-        "channel_name": "VOA TV Amharic",
-        "channel_description" : "Voice of America (VOA) is the largest U.S. international broadcaster, providing news and information in more than 40 languages to an estimated weekly audience of 236.8 million people. VOA produces content for digital, television, and radio platforms. It is easily accessed via your mobile phone and on social media. It is also distributed by satellite, cable, FM, and MW, and is carried on a network of approximately 3,000 affiliate stations. Since its creation in 1942, Voice of America has been committed to providing comprehensive coverage of the news and telling audiences the truth. Through World War II, the Cold War, the fight against global terrorism, and the struggle for freedom around the globe today, VOA exemplifies the principles of a free press.",
-        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/voa.jpeg",
-        "channel_stream": [
-          {
-            "video_quality": 0,
-            "stream_link": "" 
-           },
-            {
-                    "video_quality": 144,
-                    "stream_link": "" 
-            },
-            {
-                    "video_quality": 240,
-                    "stream_link": "" 
-                   },
-              {
-               "video_quality": 360,
-               "stream_link": "" 
-              },
-              {
-                "video_quality": 480,
-                "stream_link": "" 
-               },
-               {
-                "video_quality": 720,
-                "stream_link": "" 
-               },
-               {
-                "video_quality": 1080,
-                "stream_link": ""
-               }         
-            ]
-      }
+      
     ]
   }
