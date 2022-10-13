@@ -1,41 +1,7 @@
 {
     "channel_count": 1,
     "channels": [
-      {
-        "channel_name": "የኢትዮጵያ ልጆች",
-        "channel_description" : "የኢትዮጵያ ልጆች ከ15 ዓመታት በላይ ለልጆች አወንታዊ እድገት የሚበጁ ጥበባዊ ስራዎችን በማቅረብ ይታወቃል። የኢትዮጵያ ልጆች ተወዳጅና ተከታታይ አልበሞችንና የጉዞ ትምህርት ቤት ፕሮግራሞች ለበርካታ ዓመታት አዘጋጅቷል። የኢትዮጵያ ልጆች ፕሮጀክት አካል የሆነው የኢትዮጵያ ልጆች ሚዲያም የ24 ሠዓት የልጆች ቴሌቪዥን ስርጭት አለው። ኢትዮጵያ የልጆቻችን ናት!",
-        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ethio_lijoch.jpeg",
-        "channel_stream": [
-          {
-            "video_quality": 0,
-            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1.m3u8" 
-           },
-            {
-                    "video_quality": 144,
-                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1_144p/index.m3u8" 
-            },
-            {
-                    "video_quality": 240,
-                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1_240p/index.m3u8" 
-                   },
-              {
-               "video_quality": 360,
-               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1_360p/index.m3u8" 
-              },
-              {
-                "video_quality": 480,
-                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1_480p/index.m3u8" 
-               },
-               {
-                "video_quality": 720,
-                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1_720p/index.m3u8" 
-               },
-               {
-                "video_quality": 1080,
-                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1_src/index.m3u8" 
-               }         
-            ]
-      }
+      
       
     ]
   }
