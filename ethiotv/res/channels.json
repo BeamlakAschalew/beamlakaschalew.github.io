@@ -1,7 +1,16 @@
 {
     "channel_count": 1,
     "channels": [
-      
-      
+      {
+        "channel_name": "የኢትዮጵያ ልጆች",
+        "channel_description" : "የኢትዮጵያ ልጆች ከ15 ዓመታት በላይ ለልጆች አወንታዊ እድገት የሚበጁ ጥበባዊ ስራዎችን በማቅረብ ይታወቃል። የኢትዮጵያ ልጆች ተወዳጅና ተከታታይ አልበሞችንና የጉዞ ትምህርት ቤት ፕሮግራሞች ለበርካታ ዓመታት አዘጋጅቷል። የኢትዮጵያ ልጆች ፕሮጀክት አካል የሆነው የኢትዮጵያ ልጆች ሚዲያም የ24 ሠዓት የልጆች ቴሌቪዥን ስርጭት አለው። ኢትዮጵያ የልጆቻችን ናት!",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ethio_lijoch.jpeg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "http://sniperstv.vip:8080/javid78676/javid78676/34019" 
+           }        
+            ]
+      }
     ]
   }
