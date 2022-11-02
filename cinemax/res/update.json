@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v1.3.0-build-v2/cinemax-v1.3.0-build-v2.apk",
-    "versionnumber": "1.3.0-build-v2",
-    "changelog": "- Fixed still images saving in poster folder and vice versa.\n - Minor UI fix in video player.\n"
+    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v1.3.0-build-v3/cinemax-v1.3.0-build-v3.apk",
+    "versionnumber": "1.3.0-build-v3",
+    "changelog": "- Removed white screen on app startup.\n"
   }
