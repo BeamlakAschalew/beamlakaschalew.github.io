@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v1.4.0-release/cinemax-v1.4.0.apk",
-    "versionnumber": "1.4.0",
-    "changelog": "New features:/n- Bookmarking functionality/n- UI changes/n- The ability to select watch region/n- More metadata like Trivia, Goofs, Quotes from imDB/n- Added option for list or grid view/n- Account creation to sync bookmarked movies and TV shows in the future/n- News section/n- Material 3 (You) color theming (works on Android 12+)/n- Monochrome Android icon for Android 13+ devices"
+    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v1.4.1-release/cinemax-v1.4.1.apk",
+    "versionnumber": "1.4.1",
+    "changelog": "Cinemax v1.4.1 update includes:\n- Performance improvement\n- Update bookmarks when a new data is available\n- UI fixes\n- Better error messages/n- Share link for movies and TV shows\n- Share link for news\n- Syncing between online bookmark and offline bookmark (for registered users only)\n- Quality of life update\n- Screen now automatically rotates to landscape mode on streaming for ease of use\n- Profile setting like name change, username change, deleting account etc...\nMinimum Android version required to run the app: 5.0 or Lollipop and up."
   }
