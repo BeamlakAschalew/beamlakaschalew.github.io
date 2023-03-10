@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v1.4.1-release/cinemax-v1.4.1.apk",
-    "versionnumber": "1.4.1",
-    "changelog": "Cinemax v1.4.1 update includes:\n- Performance improvement\n- Update bookmarks when a new data is available\n- UI fixes\n- Better error messages/n- Share link for movies and TV shows\n- Share link for news\n- Syncing between online bookmark and offline bookmark (for registered users only)\n- Quality of life update\n- Screen now automatically rotates to landscape mode on streaming for ease of use\n- Profile setting like name change, username change, deleting account etc...\nMinimum Android version required to run the app: 5.0 or Lollipop and up."
+    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v1.4.2-release/cinemax-v1.4.2.apk",
+    "versionnumber": "1.4.2",
+    "changelog": "Cinemax v1.4.2 update includes:\n- Much much faster syncing speed (this is achieved by changing the database online so, if you want to transfer the saved titles you have online you must sync the items to local bookmark first, it's a bit technical but it is what it is)\n- Soundtrack section is back working\n- UI fix\n- Bug fix and general quality of life update\nMinimum Android version required to run the app: 5.0 or Lollipop or up"
   }
