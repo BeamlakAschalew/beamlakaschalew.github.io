@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v2.1.1-release/cinemax-v2.1.1.apk",
-    "versionnumber": "2.1.1",
-    "changelog": "- Patch fix for Movie/TV show stream error\n- Fixed bugs on settings\n- Added setting option to disable auto full screen\n- Less annoying AD's on IPTV streaming"
+    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v2.1.1-bv3/cinemax-v2.1.1-bv3.apk",
+    "versionnumber": "2.1.1-bv3",
+    "changelog": "- Patch fix for Movie/TV show stream error"
   }
