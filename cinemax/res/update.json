@@ -1,5 +1,5 @@
 {
     "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v2.2.0-bv2-release/cinemax-v2.2.0-bv2.apk",
     "versionnumber": "2.2.0-bv2",
-    "changelog": "Updates include:\n- Customizing video player's subtitle size, font.\n- Auto save recently watched and unfinished Movies and TV shows\n- Bug fixes on sync\nThis app version installs I changed something called \"package name\" so after installing this version there will be two apps called \"Cinemax\". Delete the fist one with app version <= 2.1.1."
+    "changelog": "Updates include:\n- Customizing video player's subtitle size, font.\n- Auto save recently watched and unfinished Movies and TV shows\n- Bug fixes on sync\nI changed something called \"package name\" so after installing this version there will be two apps called \"Cinemax\". Delete the fist one with app version <= 2.1.1."
   }
