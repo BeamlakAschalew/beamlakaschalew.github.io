@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v2.3.0/cinemax-v2.3.0.apk",
-    "versionnumber": "2.3.0",
-    "changelog": "Cinemax v2.3.0\nChanges:\n- Added app translations with 4 languages: English, Arabic, Spanish and Hindi\n- Added method to check for server availability\n- Movies and episodes now get removed after 85% progress\n- Removed duplicate movie and TV show entry in person pages"
+    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v2.4.0-release/flixquest-v2.4.0.apk",
+    "versionnumber": "2.4.0",
+    "changelog": "🟢 FlixQuest (formerly Cinemax) v2.4.0 changes:\n- Added Opensubtitles integration for Movies/TV shows that doesn't have subtitle by default\n- Customized the player to be more simpler to use and more aesthetic\n- Added PIP (Picture in Picture) support for the player\n- Added option to lock the player\n- Added option to copy stream link into other apps\n- App language change now takes place instantly, no need to reopen the app\n- Fixed multiple bugsn- Added more buffer extent options"
   }
