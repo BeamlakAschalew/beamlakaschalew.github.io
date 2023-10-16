@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v2.4.0-release/flixquest-v2.4.0.apk",
-    "versionnumber": "2.4.0",
-    "changelog": "🟢 FlixQuest (formerly Cinemax) v2.4.0 changes:\n- Added Opensubtitles integration for Movies/TV shows that doesn't have subtitle by default\n- Customized the player to be more simpler to use and more aesthetic\n- Added PIP (Picture in Picture) support for the player\n- Added option to lock the player\n- Added option to copy stream link into other apps\n- App language change now takes place instantly, no need to reopen the app\n- Fixed multiple bugsn- Added more buffer extent options\nNote that the new updates installs another app on your phone since the name is changed, you can delete the older one.\nGo to telegram @flixquestapp for more"
+    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v2.4.1-release/flixquest-v2.4.1.apk",
+    "versionnumber": "2.4.1",
+    "changelog": "🟢 FlixQuest v2.4.1 changes:-You can now clear the cache spaced used by the app by going to Settings > Clear cache-You can now fetch all subtitles that belong to a specific language. i.e if a movie have subs: English 1, English 2, English SDH etc you can load them all to choose the one that sync's with the video-Better error message whether if the server is down or if the movie/episode is not found-Fixed bugs"
   }
