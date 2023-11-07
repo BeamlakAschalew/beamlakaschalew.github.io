@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/cinemax/releases/download/v2.4.1-release/flixquest-v2.4.1.apk",
-    "versionnumber": "2.4.1",
-    "changelog": "🟢 FlixQuest v2.4.1 changes:\n-You can now clear the cache spaced used by the app by going to Settings > Clear cache\n-You can now fetch all subtitles that belong to a specific language. i.e if a movie have subs: English 1, English 2, English SDH etc you can load them all to choose the one that sync's with the video\n-Better error message whether if the server is down or if the movie/episode is not found\n-Fixed bugs"
+    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.4.2-release/flixquest-v2.4.2.apk",
+    "versionnumber": "2.4.2",
+    "changelog": "- Stream fix by changing video sources\n- AMOLED (Literal black theme) option in settings\n- Bug fixes\n* Note that this version is not tested well because I released it as soon as possible not to interrupt user activity.\nYour favorite Movies and TV shows might not be available and loading might flat-out stuck"
   }
