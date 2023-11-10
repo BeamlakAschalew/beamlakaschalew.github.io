@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.4.2-release/flixquest-v2.4.2.apk",
-    "versionnumber": "2.4.2",
-    "changelog": "- Stream fix by changing video sources\n- AMOLED (Literal black theme) option in settings\n- Bug fixes\n* Note that this version is not tested well because I released it as soon as possible not to interrupt user activity.\nYour favorite Movies and TV shows might not be available and loading might flat-out stuck"
+    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.4.3-release/flixquest-v2.4.3.apk",
+    "versionnumber": "2.4.3",
+    "changelog": "- Removed Showbox as it is no longer working, it is back to FlixHQ now.\n- Added different custom colors\n- Bug fixes"
   }
