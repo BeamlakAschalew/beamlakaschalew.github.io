@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.4.3-release/flixquest-v2.4.3.apk",
-    "versionnumber": "2.4.3",
-    "changelog": "- Removed Showbox as it is no longer working, it is back to FlixHQ now.\n- Added different custom colors\n- Bug fixes"
+    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.4.4-release/flixquest-v2.4.4.apk",
+    "versionnumber": "2.4.4",
+    "changelog": "- Streaming fix by changing fetch route to FlixHQ"
   }
