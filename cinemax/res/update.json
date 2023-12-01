@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.4.4-release/flixquest-v2.4.4.apk",
-    "versionnumber": "2.4.4",
-    "changelog": "- Streaming fix by changing fetch route to FlixHQ"
+    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.5.0-release/flixquest-v2.5.0.apk",
+    "versionnumber": "2.5.0",
+    "changelog": "🟠⚫️ FlixQuest v2.5.0 release!\n🌏 Added Dramacool and ViewAsian as video sources both have a lot of Korean and Indian Movies and TV series!\n☯️ Added Zoro anime provider for a variety of anime selection!\n🎞 Added another video source: superstream!\nIt provides videos with .mp4 format which is really easy to download and doesn't buffer a lot when streaming, loads insanely fast too!"
   }
