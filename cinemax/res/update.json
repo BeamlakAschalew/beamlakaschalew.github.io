@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.5.0-5/flixquest-v2.5.0-5.apk",
-    "versionnumber": "2.5.0-5",
-    "changelog": "Flixed minor bug on video loader"
+    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.5.0-6/flixquest-v2.5.0-6.apk",
+    "versionnumber": "2.5.0-6",
+    "changelog": "Better exception handling on streams, reduced number of attempts and timeout for a stream search"
   }
