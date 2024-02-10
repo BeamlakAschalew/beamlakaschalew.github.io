@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.6.0/flixquest-v2.6.0.apk",
-    "versionnumber": "2.6.0",
-    "changelog": "🎬📺 FlixQuest v2.6.0 is here!\nChanges:\n🐞 Better error messages\n🎬 Added 4 new video sources: Gomovies, Zoechip, Vidsrc and VidSrcTo!\n⏯ Player UI changed slightly\n📱 Better app performance/smoothness\n- Other minor changes"
+    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.6.1/flixquest-v2.6.1.apk",
+    "versionnumber": "2.6.1",
+    "changelog": "🎬📺 FlixQuest v2.6.1\nChanges:\n-Fixed image download problem\n-Fixed some UI slightly"
   }
