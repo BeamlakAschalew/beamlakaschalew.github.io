@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.6.2/flixquest-v2.6.2.apk",
-    "versionnumber": "2.6.2",
-    "changelog": "🎬📺 FlixQuest v2.6.2 Changes:\n-Added better IPTV support\n-Reordered providers\n-Added bold option in subtitles"
+    "downloadlink": "https://beamlak.dev/files/flixquest/flixquest-v2.7.0.apk",
+    "versionnumber": "2.7.0",
+    "changelog": "🎬📺 FlixQuest v2.7.0 Changes:\nFixed FlixHQ, removed from sources that are not working"
   }
