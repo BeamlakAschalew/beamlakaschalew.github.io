@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://beamlak.dev/files/flixquest/flixquest-v2.7.0.apk",
-    "versionnumber": "2.7.0",
-    "changelog": "🎬📺 FlixQuest v2.7.0 Changes:\nFixed FlixHQ, removed from sources that are not working"
+    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v2.7.1/flixquest-v2.7.1.apk",
+    "versionnumber": "2.7.1",
+    "changelog": "- Stream load hanging fixed"
   }
