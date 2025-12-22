@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v3.0.0/flixquest-v3.0.0.apk",
-    "versionnumber": "3.0.0",
-    "changelog": "🎬 FlixQuest 3.0 Updates\n🔍 Recent Searches: Quickly revisit what you’ve looked for right from the search page.\n🌐 New Stream Source: Added FlixAPI for better and faster streaming links.\n📺 IPTV Upgrade: Enjoy access to 7K+ live channels worldwide.\n🎞️ Player Overhaul:\n• Frame preview while seeking\n• Volume & brightness gestures\n• Drag to seek\n• Pick episodes without leaving the player\n• Auto-play next episode or movie\n💬 External subtitles: download additional subtitles from the internet to use in your streams\n🚀 Smoother and more seamless than ever."
+    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v3.1.0/flixquest-v3.1.0.apk",
+    "versionnumber": "3.1.0",
+    "changelog": "🎬📺 FlixQuest v3.1.0\n5 new stream sources:\nShowbox\nVixsrc (highly unreliable)\nGoku\nSflix\nHimovies\nRemoved or updated sources:\nFlixHQNew renamed to MyFlixerz\nRemoved Zoro as it is shutdown by allianceforcreativity (RIP)\nRemoved Dramacool as it is no longer working\nOther changes:\nBetter video player experience\nYou can now switch between sources while you are in the player\nBetter stream loading screens\nBetter source reorder screen\nFixed external subtitle"
   }
