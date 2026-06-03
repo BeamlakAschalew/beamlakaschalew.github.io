@@ -1,5 +1,5 @@
 {
-    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v3.1.0/flixquest-v3.1.0.apk",
-    "versionnumber": "3.1.0",
-    "changelog": "🎬📺 FlixQuest v3.1.0\n5 new stream sources:\nShowbox\nVixsrc (highly unreliable)\nGoku\nSflix\nHimovies\nRemoved or updated sources:\nFlixHQNew renamed to MyFlixerz\nRemoved Zoro as it is shutdown by allianceforcreativity (RIP)\nRemoved Dramacool as it is no longer working\nOther changes:\nBetter video player experience\nYou can now switch between sources while you are in the player\nBetter stream loading screens\nBetter source reorder screen\nFixed external subtitle"
+    "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v3.2.0/flixquest-v3.2.0.apk",
+    "versionnumber": "3.2.0",
+    "changelog": "🎬📺 FlixQuest v3.2.0 (STREAMING IS BACK!)\n- Fixed VixSrc, it is the only working provider right now\n- Fixed external subtitles"
   }
