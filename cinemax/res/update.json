@@ -1,5 +1,5 @@
 {
-  "downloadlink": "https://github.com/BeamlakAschalew/flixquest/releases/download/v4.1.1/flixquest-v4.1.1.apk",
-  "versionnumber": "4.1.1",
-  "changelog": "🎉 What's New in FlixQuest v4.1.1\n\n- Live TV fix\n- Nvidia Shield not showing video bug fix\n- In-app updates for Android TV\n- Better remote navigation and Android TV UI update"
+  "downloadlink": "https://github.com/flixquest/flixquest/releases/download/v4.2.0/flixquest-v4.2.0.apk",
+  "versionnumber": "4.2.0",
+  "changelog": "🎉 What's New in FlixQuest v4.2.0\n\n✨ New\n- Redesigned mobile app with a new home feed, Top 10 and Discover tab\n- My FlixQuest hub, Continue Watching and Up Next\n- Credits pages, plus cast and guest stars on episodes\n- Insights dashboard for your viewing habits\n- Live TV links (flix.quest/l/…) now jump straight to the channel\n- Player quality settings and a new playback loading screen\n\n📺 Android TV\n- Rebuilt D-pad navigation, so focus no longer jumps around\n- Back button now behaves correctly, including on Android 16\n- Redesigned details pages and a light theme\n- Skeleton loaders instead of spinners\n\n🎬 Player\n- Reworked player with a better subtitle picker\n- Faster source loading\n\n🔧 Other\n- Bandwidth tracking\n- Many layout fixes and improvements"
 }
